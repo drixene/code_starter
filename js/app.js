@@ -5,7 +5,7 @@ import {func3} from "./card.js"
 let a = document.getElementById("sectionOne")
 
 let Obj1 ={
-    title: "LIGHTFURY",
+    title: "XXXTANTACION",
     desc: "The Light Fury is an engine of change in our story, representing the call of the wild, which is key to Toothless' destiny. Dean DeBlois. Director Dean DeBlois describes the Light Fury's role as a call to the wild for Toothless, who lacks many primal instincts regarding love.",
     btn:"Contact Me",
     myImg: "../image/x1.png"
@@ -14,7 +14,7 @@ let Obj1 ={
 let b = document.getElementById("sectionTwo")
 
 let Obj2={
-    title2: "Project Completed",
+    title2: "ALBUM",
     img1: "../image/x2.jpg",
     desc1: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam, est ratione aut veritatis placeat earum voluptatum blanditiis officiis soluta sunt quod atque modi dolor quibusdam, at illum commodi aspernatur quos.",
     btn1: "LearnMore",
